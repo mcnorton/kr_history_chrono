@@ -1,6 +1,6 @@
 {
-    "name": "kr_history_chrono",
-    "short_name": "kr_history_chrono",
+    "name": "한국사 연표",
+    "short_name": "한국사 연표",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
